@@ -1,0 +1,28 @@
+package com.co.rodriguez.usuarios.MicroservicioUsuarios.entity;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table
+public class Alumno {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long Id;
+	private String nombre;
+	private String apellido;
+	private String email;
+	
+	@Column(name = "create_at")
+	private Date createAt;
+	
+	
+	
+	
+
+}

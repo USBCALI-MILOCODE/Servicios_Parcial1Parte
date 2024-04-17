@@ -1,0 +1,3 @@
+spring.application.name=MicroservicioUsuarios
+
+server.port=${port:0}
