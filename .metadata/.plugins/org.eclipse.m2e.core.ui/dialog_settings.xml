@@ -71,6 +71,7 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte2\Parcial\MicroservicioUsuarios"/>
+			<item value="C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\MicroservicioUsuarios"/>
 			<item value="C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte2\Parcial\MicroservicioEureka"/>
 			<item value="C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte2\verbosJurgen\SpringMongoREST"/>
 			<item value="C:\Users\jcrod\OneDrive\Desktop\Universidad\sextoSemestre\servicios\Corte2\VerbosHttp"/>
